@@ -1,0 +1,8 @@
+Gene	Database	ID	Domain	Start	End	Seq_Length
+Adiantum_capillus-veneris_KAI5056680.1	Pfam	PF00929	Exonuclease	195	363	1556
+Cyanophora_paradoxa_tig00000169_g11881	CDD	cl46443	Mrr_cat	1135	1235	1321
+Cymbomonas_tetramitiformis_KAK3249951.1	Pfam	PF00929	Exonuclease	10	150	1302
+Marchantia_polymorpha_OAE22450.1	Pfam	PF00929	Exonuclease	343	512	1918
+Physcomitrium_patens_XP_024402182.1	Pfam	PF00929	Exonuclease	273	444	2004
+Selaginella_moellendorffii_XP_002981449.1	Pfam	PF00929	Exonuclease	178	347	1254
+Zygnema_circumcarinatum_UTEX1559_14954.1	Pfam	PF00929	Exonuclease	67	237	1394

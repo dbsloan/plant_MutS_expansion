@@ -1,0 +1,5 @@
+Gene	Database	ID	Domain	Start	End	Seq_Length
+Physcomitrium_patens_DPD1-MutS1	Pfam	PF00929	DPD1	273	444	2004
+Arabidopsis_thaliana_MSH1	Pfam	PF01541	GIY-YIG	1026	1061	1118
+Cyanophora_paradoxa_MutS1	CDD	cl46443	Mrr_cat	1135	1235	1321
+Arabidopsis_thaliana_MutS2B	Pfam	PF01713	Smr	805	875	876
